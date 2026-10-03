@@ -2,13 +2,22 @@
 
 > **Read-only archive of released versions of flamarkt/taxonomies.** Not for installation: use [Packagist](https://packagist.org/packages/flamarkt/taxonomies) or the [upstream repository](https://github.com/flamarkt/taxonomies).
 
-**0** versions archived · Latest: [`0.1.9`](https://github.com/flarchive/flamarkt-taxonomies/tree/archive/v0.1.9) · License: `MIT` · Flarum: `^1.2`
+**10** versions archived · Latest: [`0.1.9`](https://github.com/flarchive/flamarkt-taxonomies/tree/archive/v0.1.9) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2022-04-01 | `^1.2` | [Browse](https://github.com/flarchive/flamarkt-taxonomies/tree/archive/v0.1.0) |
+| `0.1.1` | 2022-04-01 | `^1.2` | [Browse](https://github.com/flarchive/flamarkt-taxonomies/tree/archive/v0.1.1) |
+| `0.1.2` | 2022-04-06 | `^1.2` | [Browse](https://github.com/flarchive/flamarkt-taxonomies/tree/archive/v0.1.2) |
+| `0.1.3` | 2022-09-02 | `^1.2` | [Browse](https://github.com/flarchive/flamarkt-taxonomies/tree/archive/v0.1.3) |
+| `0.1.4` | 2022-09-07 | `^1.2` | [Browse](https://github.com/flarchive/flamarkt-taxonomies/tree/archive/v0.1.4) |
+| `0.1.5` | 2022-09-08 | `^1.2` | [Browse](https://github.com/flarchive/flamarkt-taxonomies/tree/archive/v0.1.5) |
+| `0.1.6` | 2022-09-20 | `^1.2` | [Browse](https://github.com/flarchive/flamarkt-taxonomies/tree/archive/v0.1.6) |
+| `0.1.7` | 2022-11-13 | `^1.2` | [Browse](https://github.com/flarchive/flamarkt-taxonomies/tree/archive/v0.1.7) |
+| `0.1.8` | 2022-11-13 | `^1.2` | [Browse](https://github.com/flarchive/flamarkt-taxonomies/tree/archive/v0.1.8) |
+| `0.1.9` | 2023-03-09 | `^1.2` | [Browse](https://github.com/flarchive/flamarkt-taxonomies/tree/archive/v0.1.9) |
 
 Catalog entry: [packages/flamarkt-taxonomies.json](https://github.com/flarchive/archive-index/blob/main/packages/flamarkt-taxonomies.json)
 
